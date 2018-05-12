@@ -1,0 +1,33 @@
+_repo: Opera-nova-amorosa-vol.-3Comedia-nova_31818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Notturno, Napolitano
+    aliases:
+    - Nocturno, Napolitano
+    - Notturno, Napoletano
+    - Nocturno, Neapolitano
+    - Napolitano, Notturno
+    gutenberg_agent_id: '34785'
+    url: http://www.gutenberg.org/2009/agents/34785
+description: ''
+gutenberg_bookshelf: IT Teatro in versi
+gutenberg_issued: '2010-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31818'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Drama'
+- !lcc 'PQ'
+title: 'Opera nova amorosa, vol. 3
+
+  Comedia nova'
+url: http://www.gutenberg.org/ebooks/31818
